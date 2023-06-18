@@ -6,7 +6,7 @@ export default function PostIt () {
     <Article title='Post It.'>
       <Image
         alt='Post It.'
-        src='/proyectos/postit.png'
+        src='/proyectos/postit.webp'
         height={540}
         width={960}
         className='w-auto h-auto object-cover rounded-xl border-2 border-solid border-zinc-500 aspect-video'
