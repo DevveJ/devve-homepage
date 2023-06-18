@@ -6,7 +6,7 @@ export default function TeslaPage () {
     <Article title='Landing Tesla'>
       <Image
         alt='Landing Page Tesla'
-        src='/proyectos/tesla.jpg'
+        src='/proyectos/tesla.webp'
         height={540}
         width={960}
         className='w-auto h-auto object-cover rounded-xl border-2 border-solid border-zinc-500 aspect-video'

@@ -6,7 +6,7 @@ export default function TicTacToePage () {
     <Article title='Tic Tac Toe'>
       <Image
         alt='Tic Tac Toe'
-        src='/proyectos/tictactoe.png'
+        src='/proyectos/tictactoe.webp'
         height={540}
         width={960}
         className='w-auto h-auto object-cover rounded-xl border-2 border-solid border-zinc-500 aspect-video'

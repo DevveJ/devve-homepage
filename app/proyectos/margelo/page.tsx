@@ -6,7 +6,7 @@ export default function MargeloPage () {
     <Article title='Margelo'>
       <Image
         alt='Margelo'
-        src='/proyectos/margelo.png'
+        src='/proyectos/margelo.webp'
         height={540}
         width={960}
         className='w-auto h-auto object-cover rounded-xl border-2 border-solid border-zinc-500 aspect-video'

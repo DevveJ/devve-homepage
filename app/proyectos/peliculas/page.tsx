@@ -6,7 +6,7 @@ export default function PeliculasPage () {
     <Article title='Buscador de peliculas'>
       <Image
         alt='Buscador De Peliculas'
-        src='/proyectos/peliculas.png'
+        src='/proyectos/peliculas.webp'
         height={540}
         width={960}
         className='w-auto h-auto object-cover rounded-xl border-2 border-solid border-zinc-500 aspect-video'

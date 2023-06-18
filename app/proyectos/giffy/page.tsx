@@ -6,7 +6,7 @@ export default function GiffyPage () {
     <Article title='Giffy'>
       <Image
         alt='Giffy'
-        src='/proyectos/giffy.png'
+        src='/proyectos/giffy.webp'
         height={540}
         width={960}
         className='w-auto h-auto object-cover rounded-xl border-2 border-solid border-zinc-500 aspect-video'
